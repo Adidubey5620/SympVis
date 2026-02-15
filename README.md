@@ -102,11 +102,6 @@ SympVis is an intelligent, privacy-first triage application that acts as your fi
 -   **Live Integration**: Connecting the "Emergency Finder" directly to hospital wait-time APIs.
 -   **Local LLM Support**: Exploring on-device models for privacy-focused, offline triage in remote areas.
 
-## �📄 Documentation
-
-- [Project Architecture](docs/architecture.md) (Coming Soon)
-- [Clinical Methodology](docs/methodology.md) (Coming Soon)
-
 ---
 
 **Disclaimer**: *SympVis is an AI-powered triage assistant intended for informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.*
