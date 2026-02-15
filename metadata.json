@@ -1,0 +1,7 @@
+{
+  "name": "SympVis",
+  "description": "An explainable symptom triage and self-care coach that provides safe, concise health guidance and risk assessment based on user-reported symptoms.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
